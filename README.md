@@ -86,9 +86,10 @@ npm run dev
 
 | Name | GitHub |
 |------|--------|
+| D Jahnavi | [@jaanuC600](https://github.com/jaanuC600) |
 | Madhuri N | [@madhuri-codes](https://github.com/madhuri-codes) |
 | Neha Kamath | [@NehaK-XP](https://github.com/NehaK-XP) |
-| D Jahnavi | [@jaanuC600](https://github.com/jaanuC600) |
+
 
 ---
 
